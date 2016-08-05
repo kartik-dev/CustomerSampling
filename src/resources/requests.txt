@@ -1,2 +1,8 @@
-requestID,userID,customerID,userAgent,url,timestamp
-req1,user1,cust1,mozilla,www.google.com,1470422321
+req1,1,1,mozilla,www.google.com,1470422321
+req2,2,2,mozilla,www.google.com,1470422322
+req3,3,3,mozilla,www.yahoo.com,1470422323
+req4,1,1,mozilla,www.yahoo.com,1470422324
+req5,2,2,mozilla,www.yahoo.com,1470422325
+req6,2,2,mozilla,www.yahoo.com,1470422325
+req7,2,2,mozilla,www.yahoo.com,1470422325
+req8,2,2,mozilla,www.yahoo.com,1470422325

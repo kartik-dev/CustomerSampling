@@ -1,6 +1,17 @@
 package com.kartik.cs.impl;
 
-public class Request {
+public class Request implements java.io.Serializable{
+	
+	public Request(String requestID, int userID, int customerID, String userAgent, String url, long timestamp) {
+		super();
+		this.requestID = requestID;
+		this.userID = userID;
+		this.customerID = customerID;
+		this.userAgent = userAgent;
+		this.url = url;
+		this.timestamp = timestamp;
+	}
+
 	private String requestID;
 	private int userID;
 	private int customerID;

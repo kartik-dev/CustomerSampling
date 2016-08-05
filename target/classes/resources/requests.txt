@@ -1,2 +1,0 @@
-requestID,userID,customerID,userAgent,url,timestamp
-req1,user1,cust1,mozilla,www.google.com,1470422321
